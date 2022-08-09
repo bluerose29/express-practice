@@ -1,0 +1,12 @@
+### Create User 
+POST http://localhost:6022/user 
+Content-Type: application/json
+
+{
+    "first_name": "Jerome1", 
+    "last_name": "Gapasin1", 
+    "phone_number": "+639454067663", 
+    "password": "jerome29", 
+    "address": "Lingayen, Pangasinan", 
+    "email": "jerome29@gmail.com"
+}
